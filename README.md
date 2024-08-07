@@ -1,2 +1,2 @@
-# LDANet
-An official repository of LDANet
+# LDMNet
+An official repository of LDMNet
